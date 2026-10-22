@@ -2,7 +2,7 @@
 
 Location-based currency for WooCommerce. Visitors from the configured **domestic countries** (default **Colombia / CO**) see and pay in the store's **base currency** (e.g. **COP**). Visitors from any other country see and pay in a **foreign currency** (default **USD**), converted with a real-time exchange rate. If the country cannot be detected, a **fallback currency** (default **USD**) is used.
 
-- **Author:** Scharss Azael — https://thesoftwarelab.xyz
+- https://thesoftwarelab.xyz
 - **License:** MIT
 - **Requires:** WordPress 5.8+, PHP 7.4+, WooCommerce 6.0+
 - **Tested up to:** WooCommerce 9.8
